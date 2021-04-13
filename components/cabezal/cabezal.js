@@ -7,5 +7,4 @@ export default function Cabezal(props){
         <link rel="icon" href="/favicon.ico" />
       </Head>
     );
-  
 }
